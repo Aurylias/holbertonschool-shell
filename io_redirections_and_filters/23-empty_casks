@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name '*.txt' -size 0 | find . -size 0
+find . -name '*.txt' -size 0
