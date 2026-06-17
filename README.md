@@ -1,1 +1,1 @@
-In this repo you will find all my work for the first project of this week.
+In this repo you will find all the answers for the Holberton Exercices about Shell. 
